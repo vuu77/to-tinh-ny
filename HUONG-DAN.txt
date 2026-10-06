@@ -1,0 +1,16 @@
+CACH DUNG
+
+Thu muc:
+to-tinh-ready/
+  index.html
+  style.css
+  script.js
+  images/
+    anh1.jpg
+    anh2.jpg
+    anh3.jpg
+
+1. Thay 3 anh mau trong images bang anh cua ban.
+2. Giu nguyen ten anh1.jpg, anh2.jpg, anh3.jpg.
+3. Upload NGUYEN thu muc nay len GitHub Pages.
+4. Link GitHub Pages mo duoc tren iPhone/Android bang Wi-Fi, 4G, 5G.
